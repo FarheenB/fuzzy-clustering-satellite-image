@@ -12,12 +12,18 @@
 
 5. Start the application on **"http://localhost:5000"**
 
+![](readme_imgs/img1.jpg)
+
 6. Select a satellite image    
 
 7. Specify the number of clusters
 
+![](readme_imgs/img2.jpg)
+
 8. Hit Submit    
 
-9. Wait for EM Algorithm to find n no. of Fuzzy Clusters in the image    
+9. Wait for EM Algorithm to find n no. of Fuzzy Clusters in the image
 
 10.Output displayed 
+
+![](readme_imgs/img3.jpg)         ![](readme_imgs/img4.jpg)
